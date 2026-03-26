@@ -5,7 +5,7 @@ my-polyu-cpp-metaprogramming-talk-materials
   - To execute code:
     - ![](./images/how-to-execute-code-on-godbolt.jpg)
 
-### C++
+### Compile-time factorial function in different C++ version
 - Classic C-style C++
   - code
 - C++17
