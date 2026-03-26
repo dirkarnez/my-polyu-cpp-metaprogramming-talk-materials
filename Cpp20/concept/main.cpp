@@ -1,13 +1,13 @@
 template <typename T>
 concept addable = requires (T a, T b) {
-    a+b;
+    a + b;
 };
 
-void function(addable auto x) {}
+void my_function(addable auto x) {}
 
-struct X {};
+struct X {};
 
-int main() {
-    function(1); // OK
-    // function(X{}); // Fails
+int main() {
+    my_function(1); // OK
+    // my_function(X{}); // Fails
 }
