@@ -19,7 +19,7 @@ my-polyu-cpp-metaprogramming-talk-materials
 
 ### C++20 `concept`
 - [sample code](./Cpp20/concept/main.cpp)
-  - using `concept` to check if the parameter is in a data type that supports arithmetic addition
+  - using `concept` to check if the parameter is in a data type that supports arithmetic addition **at compile-time**
 
 ### Recommended books can be borrowed in PolyU library
 - [C++ templates : the complete guide (ebook)](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/10nha58/cdi_askewsholts_vlebooks_9780134778747)
