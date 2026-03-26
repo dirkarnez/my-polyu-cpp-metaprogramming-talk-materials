@@ -1,5 +1,7 @@
 my-polyu-cpp-metaprogramming-talk-materials
 ===========================================
+Thank you all so much for coming to my tiny sharing, i would like to share the sample code in my presentation
+
 <img src="./images/poster.png" height="500">
 
 ### Online IDE
