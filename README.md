@@ -29,3 +29,4 @@ Thank you all so much for coming to my tiny sharing, i would like to share the s
 
 ### YouTube tutorial videos
 - [Templates in C++ - YouTube](https://www.youtube.com/watch?v=I-hZkUa9mIs)
+- [Back to Basics: Templates in C++ - Nicolai Josuttis - CppCon 2022 - YouTube](https://www.youtube.com/watch?v=HqsEHG0QJXU)
