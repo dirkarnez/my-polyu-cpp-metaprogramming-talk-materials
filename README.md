@@ -6,4 +6,5 @@ my-polyu-cpp-metaprogramming-talk-materials
 ### C++
 
 ### Recommended books can be borrowed in PolyU library
-- [C++ templates : the complete guide](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/10nha58/cdi_askewsholts_vlebooks_9780134778747)
+- [C++ templates : the complete guide (ebook)](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/10nha58/cdi_askewsholts_vlebooks_9780134778747)
+  - Chinese translated version: [C++ Templates 全覽](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/1o0v2av/alma991022367859103411)
