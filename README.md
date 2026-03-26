@@ -6,8 +6,8 @@ my-polyu-cpp-metaprogramming-talk-materials
     - ![](./images/how-to-execute-code-on-godbolt.jpg)
 
 ### Compile-time factorial function in different C++ version
-- Classic C-style C++
-  - code
+- Classic C-style C++ (not recommended)
+  - [sample code using C's macro](./Classic/factorial/version-1/main.cpp)
 - C++11
   - [sample code using variadic `template`](./Cpp11/factorial/version-1/main.cpp)
 - C++17 ([how to enable C++17 on godbolt.org](/images/how-to-enable-cpp17-on-godbolt.jpg))
