@@ -1,9 +1,11 @@
 my-polyu-cpp-metaprogramming-talk-materials
 ===========================================
+<img src="./images/poster.png" height="500">
+
 ### Online IDE
 - [godbolt.org - Compiler Explorer](https://godbolt.org/)
   - To execute code:
-    - ![](./images/how-to-execute-code-on-godbolt.jpg)
+    - <img src="./images/how-to-execute-code-on-godbolt.jpg" height="300">
 
 ### Compile-time factorial function in different C++ version
 - Classic C-style C++ (not recommended)
