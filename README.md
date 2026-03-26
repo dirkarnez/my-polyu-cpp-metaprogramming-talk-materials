@@ -8,9 +8,9 @@ my-polyu-cpp-metaprogramming-talk-materials
 ### Compile-time factorial function in different C++ version
 - Classic C-style C++
   - code
-- C++17
-  - [sample code using variadic template](./Cpp11/factorial/version-1/main.cpp)
-- C++17
+- C++11
+  - [sample code using variadic `template`](./Cpp11/factorial/version-1/main.cpp)
+- C++17 ([how to enable C++17 on godbolt.org](/images/how-to-enable-cpp17-on-godbolt.jpg))
   - [sample code using `constexpr`](./Cpp17/factorial/version-1/main.cpp)
 - C++20 ([how to enable C++20 on godbolt.org](/images/how-to-enable-cpp20-on-godbolt.jpg))
   - [sample code using `consteval` with `constexpr`](./Cpp20/factorial/version-1/main.cpp)
