@@ -1,6 +1,6 @@
 my-polyu-cpp-metaprogramming-talk-materials
 ===========================================
-Thank you all so much for coming to my tiny sharing, i would like to share the sample code snippets in my presentation
+Thank you all so much for coming to my tiny sharing, i would like to share with you the sample code snippets and some information from my presentation
 
 <img src="./images/poster.png" height="500">
 
