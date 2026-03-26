@@ -27,6 +27,11 @@ Thank you all so much for coming to my tiny sharing, i would like to share the s
 - [C++ templates : the complete guide (ebook)](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/10nha58/cdi_askewsholts_vlebooks_9780134778747)
   - Chinese translated version: [C++ Templates 全覽](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/1o0v2av/alma991022367859103411)
 
+### Career in C++
+- Job posts example
+  - [Software Engineer, C++ - 213092 - Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-C/213092)
+  - [C++ Software Engineer - Generalist - 212144 - Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/C-Software-Engineer-Generalist/212144)
+
 ### YouTube tutorial videos
 - [Templates in C++ - YouTube](https://www.youtube.com/watch?v=I-hZkUa9mIs)
 - [Back to Basics: Templates in C++ - Nicolai Josuttis - CppCon 2022 - YouTube](https://www.youtube.com/watch?v=HqsEHG0QJXU)
