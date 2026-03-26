@@ -9,10 +9,11 @@
 - Classic C-style C++
   - code
 - C++17
-  - code
+  - [sample code using variadic template](./Cpp11/factorial/version-1/main.cpp)
+- C++17
+  - [sample code using `constexpr`](./Cpp17/factorial/version-1/main.cpp)
 - C++20 ([how to enable C++20 on godbolt.org](/images/how-to-enable-cpp20-on-godbolt.jpg))
-  - [sample code using `consteval`](./Cpp20/factorial/version-1/main.cpp)
-  - [sample code using `consteval`](./Cpp20/factorial/version-1/main.cpp)
+  - [sample code using `consteval` with `constexpr`](./Cpp20/factorial/version-1/main.cpp)
 
 ### C++20 `concept`
 - [sample code](./Cpp20/concept/main.cpp)
