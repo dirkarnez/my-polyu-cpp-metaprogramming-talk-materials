@@ -1,4 +1,4 @@
-<img width="568" height="413" alt="image" src="https://github.com/user-attachments/assets/fb5ae7d6-7c21-4952-9fcf-22b7e4529047" />my-polyu-cpp-metaprogramming-talk-materials
+my-polyu-cpp-metaprogramming-talk-materials
 ===========================================
 ### Online IDE
 - [godbolt.org - Compiler Explorer](https://godbolt.org/)
