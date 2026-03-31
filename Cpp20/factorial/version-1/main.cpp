@@ -29,8 +29,8 @@ int main() {
 
     // Since it's C++20, std::array::operator[] is fully constexpr.
     // We can use it in static_assert directly!
-    static_assert(factorials[5] == 120, "Works at compile-time!");
-    static_assert(factorials[10] == 3'628'800, "Works at compile-time!");
+    static_assert(factorials[5] == 120, "Should work at compile-time!");
+    static_assert(factorials[10] == 3'628'800, "Should work at compile-time!");
 
     // Print values at runtime
     for (size_t i = 0; i < factorials.size(); ++i) {
